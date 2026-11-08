@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "CARE",
+  "versions": [
+    {
+      "commit": "b46d9a4b494b507dbe3703d8f34f0b1132a3bb1f",
+      "tag": "",
+      "parsed_at": "2026-11-08T10:37:45.703531+00:00"
+    }
+  ]
+}
