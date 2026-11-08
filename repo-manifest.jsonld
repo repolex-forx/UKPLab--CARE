@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/CARE/commit/b46d9a4b494b507dbe3703d8f34f0b1132a3bb1f",
       "git:hexsha": "b46d9a4b494b507dbe3703d8f34f0b1132a3bb1f",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
